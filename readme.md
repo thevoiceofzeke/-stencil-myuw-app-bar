@@ -10,7 +10,7 @@ This is a material top app bar built using the Stencil standalone Web Component 
 Include the script in your project:
 
 ```html
-<script src="https://unpkg.com/@myuw-web-components/myuw-app-bar@0.1.1/dist/myuw-app-bar.js">
+<script src="https://unpkg.com/@myuw-web-components/myuw-app-bar@0.1.3/dist/myuw-app-bar.js">
 ```
 
 Use the component's HTML tag wherever you want:
